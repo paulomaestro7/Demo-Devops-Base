@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/DevopsBase/.vs/DevopsBase/v16
+/DevopsBase/DevopsBase/bin
+/DevopsBase/DevopsBase/obj
+/DevopsBase/.vs/DevopsBase/config
